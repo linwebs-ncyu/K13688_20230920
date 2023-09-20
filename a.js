@@ -1,1 +1,1 @@
-alert("tetttt");
+console.log("test")
